@@ -4,7 +4,12 @@
 
 [Freja](https://github.com/Saikyun/freja)
 
-## Instructions
+## Video of me writing this code
+https://youtu.be/8tfTHPAptOg?t=2465
+
+_(Note the timestamp)_
+
+## To use
 
 1. Start Freja
 2. Hit Ctrl+O
