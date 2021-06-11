@@ -59,7 +59,10 @@
 ]]
              (when (and (>= my y)
                         (< my (+ y h)))
-               (when (table? v)
+               (when (or (table? v)
+                         (struct? v)
+                         (array? v)
+                         (tuple? v))
                  (set change-to v)))
              #
 )
