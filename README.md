@@ -11,6 +11,7 @@ _(Note the timestamp)_
 
 ## To use
 
+0. Download data_viewer.janet and put in your Freja directory
 1. Start Freja
 2. Hit Ctrl+O
 3. Write path to data_viewer.janet
