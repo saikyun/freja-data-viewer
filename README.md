@@ -5,7 +5,7 @@
 [Freja](https://github.com/Saikyun/freja)
 
 ## Video of me writing this code
-https://youtu.be/8tfTHPAptOg?t=2465
+https://youtu.be/8tfTHPAptOg?t=2956
 
 _(Note the timestamp)_
 
